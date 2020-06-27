@@ -5,3 +5,4 @@ Alf ist ein Außerirdischer vom Planeten Melmark, den es auf die Erde verschlage
 * has brown or orange hair
 * likes chocolate cookies
 * often fools people
+> Von etwas keine Ahnung haben ist kein Grund es nicht zu tun.
