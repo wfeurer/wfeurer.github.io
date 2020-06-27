@@ -6,3 +6,4 @@ Alf ist ein Außerirdischer vom Planeten Melmark, den es auf die Erde verschlage
 * likes chocolate cookies
 * often fools people
 > Von etwas keine Ahnung haben ist kein Grund es nicht zu tun.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alf.svg/1000px-Alf.svg.png"/>
